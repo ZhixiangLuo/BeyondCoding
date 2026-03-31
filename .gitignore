@@ -1,0 +1,10 @@
+.env
+verified_connections.md
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+# ~/.browser_automation/ lives outside the repo (home dir) — git never tracks it
+/scripts
+/personal/
